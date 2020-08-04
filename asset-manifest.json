@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.a4c585c9.chunk.css",
-    "main.js": "/robofriends/static/js/main.5f8c831f.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.5f8c831f.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.229ccf3b.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.229ccf3b.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/robofriends/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.ce3203d5.chunk.js": "/robofriends/static/js/2.ce3203d5.chunk.js",
-    "static/js/2.ce3203d5.chunk.js.map": "/robofriends/static/js/2.ce3203d5.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "precache-manifest.1d99b692649eb22bddd010baa886d4f0.js": "/robofriends/precache-manifest.1d99b692649eb22bddd010baa886d4f0.js",
-    "service-worker.js": "/robofriends/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/robofriends/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.a4c585c9.chunk.css.map": "/robofriends/static/css/main.a4c585c9.chunk.css.map",
-    "static/js/2.ce3203d5.chunk.js.LICENSE.txt": "/robofriends/static/js/2.ce3203d5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/The Quick South St.20f6a8eb.woff"
+    "main.css": "/RoboFriends/static/css/main.27d82aa6.chunk.css",
+    "main.js": "/RoboFriends/static/js/main.c0933b6e.chunk.js",
+    "main.js.map": "/RoboFriends/static/js/main.c0933b6e.chunk.js.map",
+    "runtime-main.js": "/RoboFriends/static/js/runtime-main.288d7cdc.js",
+    "runtime-main.js.map": "/RoboFriends/static/js/runtime-main.288d7cdc.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/RoboFriends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.ce3203d5.chunk.js": "/RoboFriends/static/js/2.ce3203d5.chunk.js",
+    "static/js/2.ce3203d5.chunk.js.map": "/RoboFriends/static/js/2.ce3203d5.chunk.js.map",
+    "index.html": "/RoboFriends/index.html",
+    "precache-manifest.45d21f4f182b348d2f61f4d4d16b951c.js": "/RoboFriends/precache-manifest.45d21f4f182b348d2f61f4d4d16b951c.js",
+    "service-worker.js": "/RoboFriends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/RoboFriends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.27d82aa6.chunk.css.map": "/RoboFriends/static/css/main.27d82aa6.chunk.css.map",
+    "static/js/2.ce3203d5.chunk.js.LICENSE.txt": "/RoboFriends/static/js/2.ce3203d5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboFriends/static/media/The Quick South St.20f6a8eb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.229ccf3b.js",
+    "static/js/runtime-main.288d7cdc.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.ce3203d5.chunk.js",
-    "static/css/main.a4c585c9.chunk.css",
-    "static/js/main.5f8c831f.chunk.js"
+    "static/css/main.27d82aa6.chunk.css",
+    "static/js/main.c0933b6e.chunk.js"
   ]
 }
